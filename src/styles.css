@@ -1,1 +1,42 @@
-/* You can add global styles to this file, and also import other style files */
+/* Global Styling */
+h1 {
+    color:rgb(3, 58, 10);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 250;
+}
+
+h2, h3 {
+    color:rgba(120, 65, 192, 0.699);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:200%;
+}
+
+title {
+color:rgb(10, 107, 67);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body, input[text], button {
+    color:rgb(91, 56, 138);
+}
+
+a {
+    cursor: pointer;
+}
+
+/* Navigation link styles 
+nav {
+    padding: 5px 10px;
+    text-decoration: none;
+    margin-right: 10px;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 4px;
+}
+*/
+
+/* everywhere else */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
